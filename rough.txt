@@ -1,0 +1,2 @@
+MUSIC_DRUMS = "/home/rakshith/PycharmProjects/pythonProject/drums-with-percussion-140-bpm-190230.mp3"  # Replace with actual paths
+MUSIC_PIANO = "/home/rakshith/PycharmProjects/pythonProject/relaxing-piano-music-248868.mp3"
